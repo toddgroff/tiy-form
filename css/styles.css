@@ -1,0 +1,45 @@
+@font-face {
+  font-family: Raleway;
+  src: url(http://fonts.googleapis.com/css?family=Raleway);
+}
+
+body {
+  background-color: #7a7a7a;
+  font-family: 'Raleway', sans-serif;
+  color: white;
+  padding: 0;
+  margin: 0;
+}
+
+h1 {
+  font-size: 4em;
+  padding: 2em auto;
+}
+
+form {
+  text-align: center;
+  width: 30%;
+  max-width: 40em;
+  margin: 3em auto;
+}
+
+.main {
+  text-align: center;
+  width: 75%;
+  max-width: 70em;
+  margin: 3em auto;
+}
+
+.form_div {
+  padding: 1em 0;
+  text-align: left;
+}
+
+label {
+  display: block;
+  padding: .5em 0;
+}
+
+select {
+  padding-left: .5em;
+}
